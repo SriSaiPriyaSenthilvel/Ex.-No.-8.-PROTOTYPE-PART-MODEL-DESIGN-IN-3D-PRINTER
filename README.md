@@ -47,8 +47,7 @@
 
 ## Output:
 
-![image](https://github.com/SriSaiPriyaSenthilvel/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475702/c720b36a-8c49-41e4-a0a3-e26e32fb1a94)
-
+![WhatsApp Image 2023-11-17 at 11 51 21_55c55678](https://github.com/SriSaiPriyaSenthilvel/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475702/55631ea7-abf4-46ed-8ea5-19f5ff673a8b)
 
 ### Name: Sri Sai Priya S
 ### Register Number: 212222240103
